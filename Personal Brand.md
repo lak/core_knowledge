@@ -1,0 +1,3 @@
+- Tell it like it is/frank/Brutalist/Undecorated
+- No need to attach myself to an opinion just because others share it
+    - E.g., the smoke test psych experiment

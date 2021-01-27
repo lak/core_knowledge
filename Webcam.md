@@ -1,0 +1,4 @@
+- Using an iPhone as a webcam:
+    - [Kinoni](https://www.kinoni.com/)
+    - [Camo](https://reincubate.com/camo/)
+- [Using a Sony a6000](https://soefficient.com/using-a-sony-a6000-digital-camera-as-a-webcam/)

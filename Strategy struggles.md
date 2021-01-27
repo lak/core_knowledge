@@ -1,0 +1,4 @@
+- growth: fast and risky, or slow and lean
+- morality: all in on vc or pull away
+- innovation: how many risks should I be willing to take
+- (Talking to mike hall)

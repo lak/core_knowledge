@@ -1,0 +1,5 @@
+- Every startup should innovate as little as possible
+- Every innovation adds risk
+- Unnecessary innovation means unnecessary risk
+- It also means you're spending your risk capital on a problem that doesn't matter. Focus your energy on the most important questions.
+- https://twitter.com/lkanies/status/1286047141601804288?s=20

@@ -1,0 +1,6 @@
+- What would my concerns and priorities look like through this lens?
+- Related to my [[Learning edge]]
+- From William Gibson's [[book]], [Agency](https://en.wikipedia.org/wiki/Agency_(novel)).
+- https://twitter.com/george__mack/status/1068238562443841538
+- https://twitter.com/shreyas/status/1276956836856393728
+- 

@@ -1,0 +1,2 @@
+- [Github's privacy policy](https://github.com/github/site-policy/blob/master/Policies/github-privacy-statement.md)
+- [Roam's privacy policy](https://roamresearch.com/#/app/help/page/y7wOdeUpZ)

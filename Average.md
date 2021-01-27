@@ -1,0 +1,3 @@
+- There is no average
+    - https://www.publicmedievalist.com/no-average-person/
+    - 

@@ -1,0 +1,16 @@
+- You publish data about yourself. There's some sort of permissions system that determines who can see your updates. Our protocols include automatic key updates. You maintain on your side who gets new keys.
+- An online profile page, available via web and api.
+- [Filed in Github](https://github.com/clicketycorp/product_planning/issues/176)
+- Like the original [[finger protocol]]
+- Also like [[gravatar]]
+- This is only worth building if it solves a problem no one else has.
+- The first problem I think of is publishing [[SLAs]]. What should people expect from you?
+- The second problem is publishing [[work hours]]. How do people know when, roughly, to expect you to be around? This is even more important in this remote-first world
+- But there are other things I'd want here:
+    - Canonicalize name
+    - Match contact info to photos, like [[gravatar]] does
+    - Share contact info with people within your network, automatically
+        - This becomes a lot like [[ldap]]: An online directory
+        - But of course, not centrally managed
+        - And it should support multiple identities, like both [[gravatar]] and [[HiHello]] do, so you can choose how much of what data to share with people
+- Possible names: Calling Card

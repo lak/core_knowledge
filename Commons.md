@@ -1,0 +1,3 @@
+- [Quick summary](http://www.bollier.org/commons-short-and-sweet)
+- [Reading list](https://wiki.p2pfoundation.net/What_You_Should_Read_To_Understand_the_Commons)
+- 

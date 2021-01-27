@@ -1,0 +1,15 @@
+- [[coaching]]
+    - with [[Karin Kolodziejski]]
+    - We discussed how to [[operationalize]] more of the company. I've been struggling in the Daily Syncs, some personal because I don't know how much sharing is the right amount. Some professional because I want to lash us a little more closely to specific goals.
+    - We talked about [[rituals]]. Clickety doesn't really have any. We should not rebuild the [[Puppet All Hands]], but we need some rituals.
+    - We discussed whether it made sense to pull the more social time into a single, longer session, and focus the syncs on something with a little more teeth
+    - We talked about the [[Strategic Seclusion]], and what topics we might discuss
+        - The main thing we agreed on is it would be useful to assess the [[Clickety How We Work]] document, and see where we're aspirational vs operational
+    - We also discussed the idea of doing multiple kinds of [[Personality Tests]], like Colors, DISC, Hogan, etc.
+        - She brought up the downsides of some of these, is they bring with them the risk of micro-aggressions and micro-inequities. "Oh, someone with that color can't be a manager."
+- I made real progress on the [[Project Management for People]] [[Clickety launch blog posts]]
+    - These are incredibly hard. I'm realizing that I'm developing our product marketing at the same time as I'm creating this content.
+    - It's ok that it's hard. I'm doing two hard things at the same time.
+    - These are also going to be legendary, one way or another.
+- We had a second meeting with Murmur Creative for the [[Clickety Brand Identity]] project
+    - It was not bad, but it did not feel incredibly effective. I talked more than she did, which is probably bad? I put up a lot she could have responded to, but she didn't really.

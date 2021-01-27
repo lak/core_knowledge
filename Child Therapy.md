@@ -1,0 +1,23 @@
+- Resources provided by Maria
+    - Alpha Articles:
+        - http://macnamara.ca/portfolio/whos-in-charge-here-anyway-why-dominant-children-need-parents-to-lead/
+        - http://macnamara.ca/portfolio/5-things-parents-say-to-kids-that-can-turn-the-tables-on-their-relationship/
+    - [Hold on to Your Kids](https://www.amazon.com/dp/B004LGTS5W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (book)
+    - [Wish Well ideas](https://consciousdiscipline.com/free-resources/shuberts-home/kitchen/wish-well-board/)
+    - [Counterwill](https://www.mother.ly/child/child-not-listening-what-to-do)
+    - [Frustration](https://www.handmadeparenting.com/take-frustration-out-to-play/)
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fclickety%2FYDCT10W3id.pdf?alt=media&token=d6806372-ba6d-4036-8b9a-97d4f70f0f49}}
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fclickety%2FNzGiqHf9np.pdf?alt=media&token=01cd3071-3766-4870-b716-de5d6e8f134e}}
+    - [Assertiveness webinar](https://consciousdiscipline.com/e-learning/webinars/reclaim-your-power-with-assertiveness/)
+    - [Conflict Resolution](https://consciousdiscipline.com/e-learning/webinars/using-conflict-to-teach-part-1/)
+    - [Conscious Discipline](https://consciousdiscipline.com/e-learning/webinars/seeing-conscious-discipline-in-the-home/)
+    - Introception
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fclickety%2FqhqpdqwuKB.pdf?alt=media&token=1d892d1f-9499-47d3-a29e-bdb597418597}}
+    - [Joint attention](https://www.thepactinstitute.com/blog/lost-your-spark-how-to-reignite-your-love)
+    - [Turning the tables](http://macnamara.ca/portfolio/5-things-parents-say-to-kids-that-can-turn-the-tables-on-their-relationship/)
+    - [Why parents need to lead](http://macnamara.ca/portfolio/whos-in-charge-here-anyway-why-dominant-children-need-parents-to-lead/)
+    - [Smashing cans](https://www.handmadeparenting.com/take-frustration-out-to-play/)
+    - 
+    - [Organization skills video]()https://consciousdiscipline.com/e-learning/webinars/seeing-conscious-discipline-in-the-home/)
+    - 
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fclickety%2Fip2Pknppzn.pdf?alt=media&token=a652d8a0-a53c-4a1f-a4f9-b7f808ff9284}}

@@ -1,0 +1,4 @@
+- From [Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten):
+    - A zettelkasten consists of many individual notes with ideas and other short pieces of information that are taken down as they occur or are acquired. The notes are numbered hierarchically, so that new notes may be inserted at the appropriate place, and contain [metadata](https://en.wikipedia.org/wiki/Metadata) to allow the note-taker to associate notes with each other. For example, notes may contain [tags](https://en.wikipedia.org/wiki/Tag_(metadata)) that describe key aspects of the note, and they may reference other notes. The numbering, metadata, format and structure of the notes is subject to variation depending on the specific method employed.
+- Article: [How one german scholar was so freakishly productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
+- [How to use it](https://eugeneyan.com/writing/note-taking-zettelkasten/)

@@ -1,0 +1,2 @@
+- [[Plain Text]] is a big part of local-first
+- [[Ink and Switch]]'s [local-first article](https://www.inkandswitch.com/local-first.html)

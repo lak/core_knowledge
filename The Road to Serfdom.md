@@ -1,0 +1,15 @@
+- Metadata:
+    - Tags: #book, #Economics, #Liberalism
+    - Author: Friedrick Hayek
+- My notes:
+    - Page 86: Planning and the Rule of Law
+        - “When we have to choose between..., nothing short of a complete system of values in which every want of every person or group has a definite place is necessary to provide an answer.” -> This perfectly captures his extremity.
+        - “any policy aiming directly at a substantive ideal of distribute justice must lead to the destruction of the Rule of Law.” Again, extreme. This shows why and how they took a reasonable position and used it to recreate a new gilded era.
+        - Up until this point, the book has been reasonable, if framed in weird ways. E.g., the way he equates communism and fascism, like there’s nothing between them, and the work he does to put Nazis on the same footing as Communists, so that the rest of his book he can say either one and then jump to the other as though they have the same philosophies and policies.
+        - But this chapter goes off the rails. This is obviously where the zealotry comes from. We can either build a just society, or one with a rule of law. Ok. So how do we make laws, if we cannot concern ourselves with justice? I am going to assume he does not answer that.
+        - He provides perfect cover for the gilded era:
+        - “It cannot be denied that the Rule of Law produces economic inequality — all that can be claimed for it is that this inequality is not designed to affect particular people in a particular way.” This is either naive or stupid. Policies that encourage social mobility have a greater chance of affecting people randomly. Policies — such as those he’s encouraging — that enable concentration of wealth simultaneously destroy mobility, and thus exactly proscribe who is affected.
+        - This is also obviously the root of objections to affirmative action. Requiring that everyone be treated the same before the law makes no sense when everyone is not treated the same outside the law, yet he claims it is the only thing that makes sense.
+        - “The unpredictability of the particular effects, which is the distinguishing characteristic of the formal laws of a liberal system...” But in most cases, liberal systems entrench inequality, the rich get richer, and you know exactly what’s going to happen. Avoiding that requires active policies.
+        - Now he’s confusing things. He’s focused so far this chapter on the law giving any preference, but then he suddenly switches back to laws that put planning commissions and related things in place. These are completely different, yet he acts as though they’re the same, and thus any downside of a commission is visited on the consequences of a law with a preference.
+        - He keeps talking about people being able to predict the behavior of the state, which I think of as the basis of the rule of law, but then he also mixes it with the law never being directed at particular people. He never actually makes the case for the latter, only the former, yet he speaks as though he has.

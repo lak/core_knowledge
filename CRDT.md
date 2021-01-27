@@ -1,0 +1,3 @@
+- [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+- Seems to be the standard for how to do asynchronous, local-first operation.
+- Used in [[automerge]], [[noms]], [[dolt]], and lots of others.

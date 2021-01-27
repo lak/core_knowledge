@@ -1,0 +1,17 @@
+- # Luke's Daily
+- Health update: Thursday and Friday were heavy and video calls and put me into a spiral. Early end on Friday, and most of the weekend was spent managing symptoms, vs being useful. I'll be paying extra attention this week again.
+- User update:
+    - 37 Live
+    - 5 scheduled and white listed
+    - 18 offered
+    - 19 Considering
+- Today - Light meeting day
+    - [ ] Capture OKRs with Heidi
+    - [ ] Respond to Jason's design email
+- Current Priorities
+    - [ ] Take over contract negotiations with Joseph Greene
+    - [ ] Invite 5-10 more users
+    - [ ] Invest in Heap reporting. In particular, Active Users is wildly incorrect
+    - [ ] Decide on next key feature
+    - [ ] Choose more people to invite to beta
+    - [ ] Write up three potentially competitive apps (Orbit, Attio, and Compose)

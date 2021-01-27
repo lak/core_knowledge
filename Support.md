@@ -1,0 +1,1 @@
+- Swarming vs Three tier: https://medium.com/@JonHall_/itsm-devops-and-why-the-three-tier-structure-must-be-replaced-with-swarming-91e76ba22304

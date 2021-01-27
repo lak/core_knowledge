@@ -1,0 +1,2 @@
+- Delegation makes jobs smaller.
+- Automation makes jobs bigger.

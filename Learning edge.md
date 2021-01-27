@@ -1,0 +1,4 @@
+- A concept I learned from [[Karin Kolodziejski]]
+- There's lots of stuff you're good at, but not getting better at
+- Lots of stuff you suck at and are not going to get good at soon
+- Focus on the small list of stuff you're working on getting better at right now

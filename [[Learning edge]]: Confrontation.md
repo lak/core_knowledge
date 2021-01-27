@@ -1,0 +1,3 @@
+- #coaching
+- I am good at confronting people about their work.
+- I am bad at confronting people about themselves. Their behavior.

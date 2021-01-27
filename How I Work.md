@@ -1,0 +1,6 @@
+- I am ok sequencing things, but not scheduling them. An order, not a schedule (from [[Agency]])
+- My drive:
+    - reduce entropy and increase order
+    - Cross up Non Zero, ever increasing entropy, lower energy states == less entropy, and my own drive
+    - I can't tolerate knowing a way to lower the energy state and not doing it.
+- Related to my [[Learning edge]]

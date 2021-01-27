@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "f2463e7219d6fc09",
+    "type": "split",
+    "children": [
+      {
+        "id": "805ab27fb0071ba1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "[[Learning edge]]: Confrontation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a46296c6dee58c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "17b4e57c80b73b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cde7b39f16770f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7ba3d019386c5f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2729c9cfaa58804b",
+    "type": "split",
+    "children": [
+      {
+        "id": "19526ded5ffc3f72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca38ac4fed94847",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "[[Learning edge]]: Confrontation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "[[Learning edge]]: Confrontation.md",
+    "[[COVID-19]] Links.md",
+    "[[Clickety]] Finger Service.md"
+  ]
+}

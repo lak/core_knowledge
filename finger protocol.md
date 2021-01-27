@@ -1,0 +1,8 @@
+- A service I used in college
+- A built-in [unix protocol](https://en.wikipedia.org/wiki/Finger_protocol)
+- Incredibly inappropriate name
+- Was very useful, though:
+    - Easy way to share info with others, or get info on others
+    - You could update your .plan file, and its contents would display for others
+    - Said to be the first implementation of network presence
+- [[gravatar]] is the closest thing to this today

@@ -1,0 +1,2 @@
+- One of the most important things I’ve learned is to forgive myself. 
+- It’s much easier to forgive others than yourself.

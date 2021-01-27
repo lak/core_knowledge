@@ -1,0 +1,2 @@
+- In the [[Workplace]]:
+    - HBR article with deep research on the role of hours, perspectives, bias, and more: https://hbr.org/2020/03/whats-really-holding-women-back

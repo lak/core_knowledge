@@ -1,0 +1,19 @@
+- I have [Autism]
+    - Symptoms this might explain: 
+- I have [Ehler's Danlos]
+    - Symptoms this might explain:
+        - Loose joints all over. Most notably, fingers, ankles, knees, and shoulders
+- Potential explanations of symptoms:
+    - [Postural Orthostatic Tachycardia Syndrome](https://www.dinet.org/info/pots/pots-an-overview-r95/)
+        - Heart-related issues upon standing
+- Sore parts:
+    - Right knee, all spring of 2020
+- Injuries:
+    - Likely fractured right ankle, age 16 (skateboarding; never went to doctor). Has caused problems since
+    - Fractured left wrist, around age 30 (fell while playing soccer)
+    - Likely fractured (right?) ankle, around age 30 (landed badly while playing soccer)
+    - Fractured right shoulder blade, around 2013 (fell while riding a bike)
+    - Fractured right ankle, winter 2016 (rolled ankle walking at night)
+    - Cracked rib on left, summer of 2017 (fell on camera)
+    - Injured left shoulder, likely rotator cuff, summer 2017 (brushing Lillian's hair)
+    - Injured rib on left, summer 2020 (climbing)

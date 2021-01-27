@@ -1,0 +1,8 @@
+- Coffee: $20/m
+- Lunch: $50/m
+- Dinner: $120/m
+- But how do I actually tier the product?
+- The obvious choice is number of contacts, but... that kinda sucks. If I have a big network I've not done well at using, then I need the product but won't get much value in the beginning. I think the reason it sucks right away is just I get told immediately, because of who I am, that I need to pay more.
+- Still, it's the obvious thing. 
+- We could also do feature-based pricing. $50/m gets you unlimited contacts, $120m unlocks some level of features.
+- We could start with $20 and $50, with the lower tier being ~1000 or fewer.

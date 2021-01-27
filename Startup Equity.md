@@ -1,0 +1,2 @@
+- Liquidity
+    - Is it possible to create a holding company that holds all common shares such that if a portion of a company stock is sold that holding company makes money and distributed equally according to all of the common shareholders this might make it easier for small shareholders to capitalize￼?

@@ -1,0 +1,4 @@
+- Tech stock ETFs:
+    - [IGV](https://www.etf.com/IGV)
+    - [iShares](https://www.ishares.com/us/products/239771/ishares-north-american-techsoftware-etf)
+    - 

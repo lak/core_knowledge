@@ -1,0 +1,2 @@
+- Link: https://think-boundless.com/chaos-theory/
+- Tags: #taylorism #chaos #management #antifragile

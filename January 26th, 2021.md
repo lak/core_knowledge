@@ -1,0 +1,20 @@
+- Health update: Yesterday was my worst Monday in ages. I basically only got done what I had to, between reeling vertigo and recovering from the migraine med I took to treat it. Yay!
+- User update:
+    - 37 Live
+    - 5 scheduled and white listed (1 scheduled today)
+    - 18 offered
+    - 19 Considering
+- Today - Light meeting day
+    - I plan to focus on Heap today. It's unclear what kind of goals I can have on what timeline. But I should know by the end of the day.
+    - I meet with Joseph Greene, and onboard one user
+- Current Priorities
+    - [x] Take over contract negotiations with Joseph Greene
+    - [ ] Invest in Heap reporting. In particular, Active Users is wildly incorrect
+    - [ ] Decide on a user comms strategy, between clickety-users, Mailchimp, blogging, Intercom, and whatever else. It's kind of a mess right now.
+    - [ ] Invite 5-10 more users
+    - [ ] Decide on next key feature
+    - [ ] Choose more people to invite to beta
+    - [ ] Write up three potentially competitive apps (Orbit, Attio, and Compose)
+- Done
+    - [x] Capture OKRs with Heidi
+    - [x] Respond to Jason's design email

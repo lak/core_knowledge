@@ -1,0 +1,12 @@
+- [[Tesla model 3]] wheel sizes:
+    - Performance: 235/35R20 front, 275/30R20 rear
+    - Normal: 235/40R19 front, 265/35R19 rear
+    - 235/45R18 (square)
+- [Spreadsheet of Tesla tires and wheels](https://docs.google.com/spreadsheets/d/1692z54AJNVR1TG4IGiRKbpZP2AK4xseuP5yf_8VoJ7U/edit#gid=0)
+- [[M3]] wheel sizes:
+    - 18x9.5" and 18x10.5"
+    - 265/35 and 285/35r-18
+- Proposed solution:
+    - 18x9.5"
+    - 255/45r-18
+- 265/45 tire is not available.

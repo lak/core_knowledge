@@ -1,0 +1,4 @@
+- https://www.gmass.co/blog/five-annoying-issues-google-oauth-scope-verification/#unverified
+- [Google's OAuth FAQ](https://support.google.com/cloud/answer/9110914)
+- 
+- 

@@ -1,0 +1,3 @@
+- Symptoms
+    - [Flat affect](https://www.glamour.com/story/living-with-flat-affect-like-resting-bitch-face-but-not-funny). [Twitter thread](https://twitter.com/autistmakingway/status/1213628518682071045?s=21)
+- [Humanizing the diagnosis](https://neuroclastic.com/2019/04/17/humanizing-the-dsm-diagnosis-for-autism/)

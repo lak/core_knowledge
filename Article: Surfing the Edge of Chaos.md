@@ -1,0 +1,2 @@
+- Link: https://sloanreview.mit.edu/article/surfing-the-edge-of-chaos/?use_credit=39d352b0395ba768e18f042c6e2a8621
+- Tags: #chaos #workplace #work #organization

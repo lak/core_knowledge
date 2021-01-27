@@ -1,0 +1,2 @@
+- Zotero is a free and open-source [[Reference Management Software]] to manage [[Bibliographic Data]] and related research materials.
+- [Home page](https://www.zotero.org)

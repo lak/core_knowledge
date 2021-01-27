@@ -1,0 +1,5 @@
+- Conversation with Roberto
+    - "Direct Response" marketing
+    - David Bieza of Buttered Toast - agency who does this
+- guide to working with agencies: https://www.designerfund.com/blog/a-guide-for-working-with-design-freelancers-and-creative-studios/
+- 

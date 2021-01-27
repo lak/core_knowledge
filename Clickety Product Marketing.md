@@ -1,0 +1,4 @@
+- My phrasing on [LinkedIn thread](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6688495649563979776/?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6688495649563979776%2C6689343256574214145%29&midToken=AQFkXy-MRmO7hQ&trk=eml-email_notification_single_mentioned_you_in_this_01-notifications-1-hero%7Ecard%7Efeed&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-notifications-1-hero%7Ecard%7Efeed-null-2a9iv%7Ekco58t7s%7Ee5-null-voyagerOffline):
+    - The first product I'm building is to help capture and execute your goals, activities, and follow ups around people. A leader's life revolves around people, yet there are no tools built from the ground up in the domain of people work.
+
+It'll be a bit like a personal CRM app, but for professional, non-sales work. And it's meant to help with far more work than just closing deals: Tracking follow ups, keeping in touch, long-term recruiting, fundraising, getting the most out of travel, and lots more.

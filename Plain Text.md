@@ -1,0 +1,2 @@
+- [Github](https://github.com/)'s [[Privacy Policy]] is all in [[Plain Text]]: https://github.com/github/site-policy/blob/master/Policies/github-privacy-statement.md
+- 

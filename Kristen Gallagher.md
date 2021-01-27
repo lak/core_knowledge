@@ -1,0 +1,2 @@
+- [[Founder]] of [[Edify]]
+- I'm and [[advisor]]

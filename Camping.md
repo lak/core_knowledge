@@ -1,0 +1,4 @@
+- Potential equipment
+    - Cooking:
+        - [Ensembl](https://www.getensembl.com)
+            - Nesting high-quality cookware

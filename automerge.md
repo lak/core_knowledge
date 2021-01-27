@@ -1,0 +1,3 @@
+- [Automerge](https://github.com/automerge/automerge) is a library of data structures for building collaborative applications in JavaScript. It is built on [CRDTs]([[CRDT]]).
+- It was used to build [Pushpin](https://github.com/automerge/pushpin)
+- It works with [hypermerge](https://github.com/automerge/hypermerge)

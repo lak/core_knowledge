@@ -1,0 +1,8 @@
+- Walkie Talkies
+    - Configuration:
+        - Channel 22, DCS channel 11
+    - Hand-held:
+        - Midland GXT1000 (2)
+        - Baofeng UV-82HP
+    - Base in van:
+        - Midland MXT115

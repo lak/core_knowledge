@@ -1,0 +1,26 @@
+- Wrangler Program
+    - [Wiki](https://www.notion.so/Wrangler-Program-Wiki-0e004c444f55497e9cd860edbe430c29)
+    - **A recap of what we covered last night and links to various Wrangler resources:**
+        - **[Wrangler Kickoff slides](https://cowboy.docsend.com/view/6ipqp5ic5hbuqimv)** - here's what we covered as an overview to Cowboy and recent investments we've made.
+        - **[Wrangler Wiki](https://www.notion.so/Wrangler-Program-Wiki-0e004c444f55497e9cd860edbe430c29) **- this is your go-to for all things related to the program. It includes an overview of the program, FAQs, and a directory of participating Wranglers. We'll add to it as we go and welcome suggestions for things that would be helpful to include.
+        - [**Cowboy Portfolio Lookbook**](https://cowboy.docsend.com/view/wye43u6u9dk5e8ud) - here's an overview of Cowboy portfolio companies to help give you a better idea of the types of companies we have invested in to date.
+    - **Some follow up notes on questions from last night**:
+        - **OK to post on LinkedIn **that you're working with Cowboy Ventures?  Definitely. Feel free to note you're a Cowboy Ventures Wrangler - helping identify promising new earliest stage tech startups for the Cowboys.
+        - **How to describe your relationship with Cowboy to founders**?  Feel free to share you have a relationship with the folks at Cowboy Ventures to refer early stage founders and ideas to us.
+        - **How to describe Cowboy Ventures**, and what we offer, to founders?  Check out [this link](https://docs.google.com/presentation/d/1hJY229P5YEtKhPIa5I73UmoGIMjBlr20lIptRmhAQDE/edit#slide=id.ga170024205_1_0) for more info.
+        - **Other questions or comments?** Feel free to ping any of us by email, phone, text or slack.
+    - **What's next:**
+        - Join, post, comment & DM on our **Wrangler Slack channel**… articles, ideas, feedback, jokes
+        - Follow **[@cowboyvc](https://twitter.com/CowboyVC)** on twitter
+        - Questions? Check the **[Wrangler wiki page](https://www.notion.so/Wrangler-Program-Wiki-0e004c444f55497e9cd860edbe430c29)**
+        - **Text/call/email** your Cowboy friends (team cc'd on this email and cell #'s below)
+            - Aileen: [aileen@cowboy.vc](mailto:aileen@cowboy.vc), 650-400-0232
+            - Ted: [ted@cowboy.vc](mailto:ted@cowboy.vc), 650-464-0059
+            - Jomayra: [jomayra@cowboy.vc](mailto:jomayra@cowboy.vc), 407-575-4275
+            - Amanda: [amanda@cowboy.vc](mailto:amanda@cowboy.vc), 650-308-6570
+            - Alex: [alex@cowboy.vc](mailto:alex@cowboy.vc) 303-918-7920
+            - want to schedule some time to chat about something?  Mae is our EA extraordinaire - [Mae@cowboy.vc](mailto:Mae@cowboy.vc)
+        - Our next **quarterly Wrangler meetings** (calendar invites have been sent, please RSVP in the calendar invite)
+            - Thursday, February 11, 2021 3:30 - 5pm PT / 6:30 - 8pm ET
+            - Thursday, May 13, 2021 3:30 - 5pm PT / 6:30 - 8pm ET
+        - Join other relevant **Cowboy gatherings** - we'll keep y'all posted about upcoming events

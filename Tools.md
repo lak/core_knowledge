@@ -1,0 +1,56 @@
+- In use:
+    - 1Password
+    - Adobe Lightroom
+    - Bartender 3
+    - Brave
+        - Chrome-based browser.
+        - I mostly use this for dev work and testing.
+    - DaisyDisk
+        - Disk usage testing.
+        - Available in the App Store, but I have to use the downloaded version so it is not sandboxed.
+    - Divvy
+    - Drafts
+    - Elgato Control Centter
+        - Just for office computer
+        - Controls Elgato lighting
+    - Epichrome
+        - https://github.com/dmarmor/epichrome
+        - Tagline: Epichrome lets you create web-based Mac applications compatible with the full range of extensions available in the Chrome Web Store. It includes an extension to route links to your default browser.
+        - I use this to make stand-alone [[Roam]] and [[Google Calendar]] applications
+    - Hey
+        - Email service/client. Using only as a test
+    - iTerm
+        - Terminal replacement
+    - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
+        - I only use this to trigger keyboard shortcuts from the [[Stream Deck]]
+    - Launchbar:
+        - https://obdev.at/products/launchbar/index.html
+        - Tagline: Start with a single keyboard shortcut to access and control every aspect of your digital life.
+    - Little Snitch
+        - Initially installed to try to understand wonky internet
+    - MenuMeters
+        - Current fork: https://github.com/emcrisostomo/MenuMeters
+    - Obsidian
+        - Local-first Roam
+    - Paprika
+        - Great recipe management app
+    - Ulysses
+        - Markdown writing and publishing app
+- Retired:
+    - Quicksilver:
+        - https://qsapp.com
+        - Quicksilver is a fast and free Mac OS X productivity application that gives you the power to control your Mac quickly and elegantly. Quicksilver learns your habits, making your everyday chores simple and efficient.
+        - Retired because it just hasn't been keeping up to date.
+- To try:
+    - {{[[TODO]]}} [Bookcision](https://readwise.io/bookcision): Extract Kindle highlights, from a web browser
+    - {{[[TODO]]}} [epichrome](https://github.com/dmarmor/epichrome): Like Fluid, used to create individual apps per web site
+    - {{[[TODO]]}} [Hammerspoon](https://www.hammerspoon.org) and [Choosy](https://www.choosyosx.com): Send URL opens to the right place
+        - [Example hammer spoon config](https://github.com/zzamboni/dot-hammerspoon/blob/master/init.org#url-dispatching-to-site-specific-browsers)
+    - {{[[TODO]]}} [Finda](https://kevinlynagh.com/datatron/): Search tool for OS X
+    - {{[[TODO]]}} [Total Spaces](https://totalspaces.binaryage.com): Spaces manager. Requires disabling System Integrity Protection 
+    - {{[[TODO]]}} [Fuzzy Finder](https://github.com/junegunn/fzf): CLI find tool that works better than find
+    - {{[[TODO]]}} [Useful command line tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+    - {{[[TODO]]}} [Awesome CLI tools](https://www.vimfromscratch.com/articles/awesome-command-line-tools/)
+    - {{[[TODO]]}} [Wildcard](https://www.geoffreylitt.com/wildcard/salon2020/): Spreadsheet-Driven Customization of Web Applications
+-  Thought technologies:
+    - A [long list](https://untools.co) of decision/thinking models
