@@ -66,6 +66,9 @@
     - [VIMac](https://vimacapp.com)
         - Tagline: Stop using your clunky trackpad/mouse now
         - Interface modifications for your mac
+	- [Espanso](https://forum.obsidian.md/t/fun-with-espanso/2317)
+		- Tagline: Cross-platform text expander written in Rust
+		- A generic text expander. Learned of it from a [post on daily notes](https://forum.obsidian.md/t/how-i-use-daily-notes/3057/2)
     - Unified work experiences
         - [Shift](https://tryshift.com)
             - Tagline: The workstation for productive people.
@@ -83,3 +86,6 @@
 - Command-line
     - [Crush](https://github.com/liljencrantz/crush)
         - Tagline: Crush is an attempt to make a command line shell that is also a powerful modern programming language.
+- Email
+	- [Clean.email](https://clean.email)
+		- Tagline: # Clean your Inbox of emails you don't need. Then keep it clean.

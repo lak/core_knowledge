@@ -29,7 +29,8 @@
     - Little Snitch
         - Initially installed to try to understand wonky internet
     - MenuMeters
-        - Current fork: https://github.com/emcrisostomo/MenuMeters
+		- [Current fork](https://github.com/yujitach/MenuMeters) - ARM support
+        - [Old fork](https://github.com/emcrisostomo/MenuMeters) - does not support ARM, but has high-energy processes in menu
     - Obsidian
         - Local-first Roam
     - Paprika

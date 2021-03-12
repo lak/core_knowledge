@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "[[Learning edge]]: Confrontation.md",
+            "file": "Applications and Tools.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,11 +70,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[[Learning edge]]: Confrontation.md",
+                "file": "Applications and Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -82,12 +83,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "[[Learning edge]]: Confrontation.md",
-    "[[COVID-19]] Links.md",
-    "[[Clickety]] Finger Service.md"
+    "Applications and Tools.md",
+    "Tools.md",
+    "Decentralized Tech.md",
+    "Decentralized Web Summit 2018.md",
+    "December 9th, 2020.md",
+    "December 7th, 2020.md",
+    "December 6th, 2020.md",
+    "December 5th, 2020.md",
+    "December 4th, 2020.md",
+    "December 3rd, 2020.md"
   ]
 }
