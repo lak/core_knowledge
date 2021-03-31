@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Applications and Tools.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications and Tools.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Applications and Tools.md",
     "Tools.md",
     "Decentralized Tech.md",
@@ -94,7 +95,6 @@
     "December 7th, 2020.md",
     "December 6th, 2020.md",
     "December 5th, 2020.md",
-    "December 4th, 2020.md",
-    "December 3rd, 2020.md"
+    "December 4th, 2020.md"
   ]
 }
