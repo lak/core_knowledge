@@ -10,6 +10,9 @@
     - [Work Patterns](https://www.workpatterns.com)
         - Tagline: The Operating System for High Functioning Teams
         - Seems to mostly be a system for managing 1:1s and meetings.
+	- [Spot](https://www.meetwithspot.com)
+		- Tagline: ## Sick of sitting on video meetings all day?
+		- A tool for setting up walking meetings.
 - Scheduling applications:
     - [Calendly](https://calendly.com)
         - Tagline: Calendly helps you schedule meetings without the back-and-forth emails
