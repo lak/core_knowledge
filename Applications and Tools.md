@@ -79,6 +79,10 @@
         - [Qatalog](https://qatalog.com)
             - Tagline: All your people, work and tools. None of the noise.
             - Seems to be a directory, plus a sync engine for tools, built for org use?
+- Spreadsheet-like stuff
+	- [Clay](https://www.clay.run)
+		- Tagline: This spreadsheet fills itself
+		- Spreadsheet with automation stuff
 - Coaching products
     - [Torch](https://torch.io)
         - Tagline: Scalable leadership coaching for organizations.
