@@ -92,3 +92,8 @@
 - Email
 	- [Clean.email](https://clean.email)
 		- Tagline: # Clean your Inbox of emails you don't need. Then keep it clean.
+- Note taking
+	- [Mem](https://newsletter.mem.ai/p/new-in-mem-templates-and-daily-mems)
+		- Tagline: Capture and access information from anywhere.
+		- Looks like the culmination of many trends in notes.
+		- Includes collaboration, which most of these apps are missing.
