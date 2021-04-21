@@ -6,7 +6,6 @@
       {
         "id": "805ab27fb0071ba1",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -74,6 +73,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -85,6 +86,7 @@
     "direction": "horizontal",
     "width": 300
   },
+  "active": "805ab27fb0071ba1",
   "lastOpenFiles": [
     "Applications and Tools.md",
     "Untitled.md",
