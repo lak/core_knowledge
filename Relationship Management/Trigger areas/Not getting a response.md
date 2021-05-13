@@ -1,0 +1,3 @@
+I bring up topics all the time, asking for input, or if she’ll do something.
+
+I don’t think she realizes it, but she often just doesn’t respond. Literally no words. For example I asked what it would take to get her to try the cargo bike, and she did not respond. I asked if she would be willing to try the electric bike I can ride, no response. And I don’t mean, she said she doesn’t know; I mean, it’s like she started thinking about it, came to a conclusion, and then just didn’t share either what she was thinking, or what she decided.

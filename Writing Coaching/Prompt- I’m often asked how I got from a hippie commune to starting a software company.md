@@ -1,0 +1,14 @@
+# Prompt: I’m often asked how I got from a hippie commune to starting a software company
+I was born on a hippie commune in Wisconsin, then moved to a related one in Tennessee when I was 4 (this was “The Farm”, best known for having produced Spiritual Midwifery, a book that was a major contributor to reviving midwifing in the US). When I was 8, I cut a foot of hair off my head and began attending public school in Nashville, Tennessee as a vegetarian who’d never heard of god.
+
+Suffice it to say, it did not go well.
+
+As I worked my way through college, I realized that my coping mechanism for dealing with the stark conflict between those two cultures was to literally forget everything I knew. At a certain point, I realized I only had a few memories of my childhood on the Farm. Given contradictory but unverifiable information — and Nashville and the Farm were definitely contradictory — the only reasonable response is to discard it all. That explains why I didn’t trust the kids in 4th grade who told me I was going to burn in hell for 10,000 years because I wasn’t baptized, and it also explains why I do not resemble someone raised on a hippie commune.
+
+I graduated from high school a year early, mostly to escape my incredibly violent 3,000 person high school run by jocks. I didn’t exactly have role models to show the real possibilities of what going to school can do — nearly every adult I knew went to college, but I knew I didn’t want to use my degree to build shoddy houses and dig outhouse holes in the woods. When it came to picking colleges, I eliminated all schools that had fraternities, sororities, or organized sports (because I wanted my school run by the geeks, the nerds, the brainiacs), and then I picked the best school I could find the furthest from my home town.
+
+I looked at schools in Alaska, but the one I found that fit the criteria was too small at 400 people. It never occurred to me to consider overseas schools. Then my home room teacher pointed out Reed College, in Portland, Oregon. I’m sure their whole book was useful, but the only bit I remember was how their Guerrilla Theater of the Absurd ingested red, white, and blue mashed potatoes  in preparation for a visit by Dan Quayle, and then threw them up at his speech. I was in. That was a whole different kind of patriotism than they practiced in Nashville.
+
+I was too poor to visit any schools, so I showed up at Reed having never been on the west coast, or within a thousand miles of Portland. The black and white photos in the school book didn’t quite capture the place. Seeing the campus for the first time is unquestionably the first time I remember honestly crying for joy.
+
+One of the first things I did there was buy a computer, and one of the last was decide not to be a scientist. The rest is history.

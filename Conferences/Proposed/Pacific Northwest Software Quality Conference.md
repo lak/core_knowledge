@@ -1,0 +1,3 @@
+# Pacific Northwest Software Quality Conference
+## Abstract
+Luke Kanies is the founder and creator of Puppet, an open source infrastructure automation tool used by thousands of companies and hundreds of thousands of people around the world. In this talk, he will discuss how he delivered high quality while moving quickly and learning even faster. This was particularly challenging for Puppet, as it needed to change quickly but also provide high levels of confidence in the most demanding environments, such as the International Space Station, CERN, and the world’s largest banks and technology companies.

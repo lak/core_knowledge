@@ -1,0 +1,14 @@
+# Prompt: I’m often asked how I got from a chemistry degree to starting a software company
+I had seven jobs in two and a half years at the end of college, so I tried a lot of things. Until my last year, I was planning to be an academic scientist, but Reed did a great job of training me on exactly what that job entailed, and the result was that I didn’t want it. For all that science is all about trial and error, they don’t actually allow much failure in your career - you better pick the right boss, the right school, the right project. Anything else means you can’t get the grants, because there’s just too much competition for too little money.
+
+Once science was out, there weren’t a lot of other great options. I am not one of those who grew up with a computer; I didn’t get one until my sophomore year in college, and taking a loan out for it is one of the first things I did in school. I had spent a lot of time playing with my computer, and I found I was particularly adept at breaking it. When are you most likely to break it? When you’re procrastinating. And when are you most likely to procrastinate? When you really, really need your computer to work because there’s something big due the next day.
+
+This meant that I also got pretty good at fixing it quickly. Or maybe, setting it up in such a way that it was always easily fixable.
+
+When it came time to look for work, this is pretty much what I had to go with: A science degree, and facility at breaking computers. That led to a QA job, a couple of mac admin jobs, and finally a support job, which soon turned into a Unix administration job. Most of those jobs I was fired from (who gets fired from the Plaid Pantry?), but the last one was a great fit for me, and I only left because I was moving to Nashville.
+
+Once I got there, I continued my investment in scripting and automation, which two jobs later resulted in my being a consultant, having worked myself out of a job.  I quickly concluded I could make good money at consulting but hated the job. I thought about an MBA, because the badge is useful, but I didn’t think the schooling would be. I almost went to law school, but then I realized it’s so expensive you have to become a lawyer afterward, which I didn’t want. So, I did the only thing left: I started a software company. I figured I’d learn more failing to start a software company than I would succeeding at getting an MBA.
+
+Puppet wasn’t my only idea — I’m still pretty enamored of a software product I wanted to build for scientists — but in the end I concluded it was the one I was most likely to succeed at, based on my own knowledge and on the market.
+
+So here I am.

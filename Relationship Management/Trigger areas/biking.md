@@ -1,0 +1,1 @@
+It’s one of the most important things to me, and she knows if, but does not like to do it. When I bring up riding at all, it causes a huge stress response, but when I try to understand it, she just claims up and won’t talk about it.

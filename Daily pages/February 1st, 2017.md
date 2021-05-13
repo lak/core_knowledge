@@ -1,0 +1,14 @@
+# February 1st, 2017
+My direction is consumed by fear of what this administration will do, by my inability to realistically consider being an activist, and my hope and uncertainty around my own future.
+
+I should write at some point about my inability to be an activist. Briefly, my family, and everyone I knew growing up, gave up a lot to be activists. In the end, it cost them basically everything they had except friends, and nearly everyone I know was raised in poverty as a result. I briefly experimented with it in high school but found more hucksters than people who had a vision for change, and I quickly concluded that the route to change was building a platform and using that in a moral way. My own uncertainty makes me fear this is incorrect, and certainly an incomplete explanation, but I remain unable to commit to a cause externally, to be as passionate on the streets as I am at the keyboard.
+
+As to my future, I am at war. I do not seem to deeply feel the need to start a software company, which surprises me. A lot. I am intrigued by the idea of being able to shift my focus and time wildly, and I very much like the idea of having flexibility and control over my own schedule. I also really do like helping others in many ways, and I find it truly satisfying to see someone who has been treated with such disrespect by our industry respond strongly to my taking them seriously and investing time in them.
+
+At odds with that is the feeling that at heart I am a CEO, I am a creator and doer, not an advisor, that my learning edge is attached to the loom not lecturing from the side. My big concerns about starting another company are probably that it is unlikely that my next company would be anything like the success that Puppet is, and second that it will become another all-consuming, monogamous relationship. The monogamy frightens me both in terms of my ability to do many things, and also my ability to do fun things, such as travel, vacation, live in other countries, etc.
+
+Two weeks ago, I was almost surely going to focus on advising, investing, etc. Recently, though, I’ve been thinking about how few leaders thought like I did, and that the only real way to maintain credibility was to build another company, that I owed it to the people who I could help as a leader to start something.
+
+Is that the only way, though? Couldn’t I be as selective and restrictive as an advisor and investor, and shouldn’t I be able to amplify my impact by working with many companies? That is, make it so that far more people get some benefit of me as a leader by working for those companies I help, rather than just those companies I run?
+
+Thankfully, I have time to think, and it’s clear I need it: My opinion is swinging wildly.
