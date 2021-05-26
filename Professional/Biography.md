@@ -1,19 +1,22 @@
 # Biography
-Founder, writer, and metapedant. Running The Compressor, a software studio for expert tools.  Writing at http://lukekanies.com/.
+Founder of Clickety and Puppet; writer and metapedant. Writing at http://lukekanies.com/.
 
-## For DevOps Talks
-
-Luke Kanies founded Puppet and ran it for twelve years, where he helped kick off the DevOps revolution. He’s a tool culture junkie who can’t stop thinking about design and automation. He is currently running The Compressor, a tools studio for expert users. You can find his writing on startups, venture capital, and technology at http://lukekanies.com.
 
 ## Short
 Design and strategy-oriented advisor, writer, and Puppet founder. Focused on software productivity, making better founders, and improving inclusion in software.
 
 Puppet founder, board member, and former CEO. Currently researching what’s next in venture capital, software, and the technology ecosystem.
 
-Luke Kanies is the founder and former CEO of Puppet, which he founded in 2005 and grew to almost 500 people. He’s a design-oriented product founder, advisor, and strategist, particularly interested in B2B companies that improve productivity at the coal face. He’s currently researching what’s next for him, venture capital, and the technology ecosystem overall.
+Luke Kanies is the founder and CEO of Clickety, where he's building tools for people work. Previously, he founded Puppet, where he raised too much money and hired too many people while helping to invent DevOps. He advises and invests in startups, and writes at https://lukekanies.com. He's also interested in cycling, photography, and getting out in the woods and on the water.
+
+is the founder and former CEO of Puppet, which he founded in 2005 and grew to almost 500 people. He’s a design-oriented product founder, advisor, and strategist, particularly interested in B2B companies that improve productivity at the coal face. He’s currently researching what’s next for him, venture capital, and the technology ecosystem overall.
 
 ## Medium
 Luke Kanies is a design and strategy-oriented advisor, speaker, writer, and the founder of Puppet. He’s researching how to build better companies, especially in unfundable markets targeted by unfundable people. He’s interested in software productivity, business strategy, new startup funding models, improving entrepreneurs, and including more people in the software revolution.
+
+## For DevOps Talks
+
+Luke Kanies founded Puppet and ran it for twelve years, where he helped kick off the DevOps revolution. He’s a tool culture junkie who can’t stop thinking about design and automation. He is currently running The Compressor, a tools studio for expert users. You can find his writing on startups, venture capital, and technology at http://lukekanies.com.
 
 ## Long — TBD
 
