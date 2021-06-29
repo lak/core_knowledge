@@ -101,3 +101,10 @@
 		- Tagline: Capture and access information from anywhere.
 		- Looks like the culmination of many trends in notes.
 		- Includes collaboration, which most of these apps are missing.
+- Multiplayer frameworks for [[SaaS]]
+	- [Room Service](https://www.roomservice.dev)
+		- Tagline: Build Multiplayer Features In 15 Minutes.
+	- [Fluid](https://fluidframework.com/docs/)
+		- Tagline: Fluid Framework is a collection of client libraries for distributing and synchronizing shared state.
+	- [Replicache](https://replicate.to)
+		- Tagline: Realtime sync for any backend stack
